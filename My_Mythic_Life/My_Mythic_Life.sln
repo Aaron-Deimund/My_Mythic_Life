@@ -1,12 +1,24 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scripts", "Scripts.csproj", "{954C8015-C3FB-8A46-4D3A-D8B3EB1A32D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EditMode", "EditMode.csproj", "{8C873503-0FEC-E1B7-87C0-BF988738EE5D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{954C8015-C3FB-8A46-4D3A-D8B3EB1A32D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{954C8015-C3FB-8A46-4D3A-D8B3EB1A32D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{954C8015-C3FB-8A46-4D3A-D8B3EB1A32D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{954C8015-C3FB-8A46-4D3A-D8B3EB1A32D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C873503-0FEC-E1B7-87C0-BF988738EE5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C873503-0FEC-E1B7-87C0-BF988738EE5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C873503-0FEC-E1B7-87C0-BF988738EE5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C873503-0FEC-E1B7-87C0-BF988738EE5D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
